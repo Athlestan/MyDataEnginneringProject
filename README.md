@@ -15,3 +15,8 @@ Learning big data tools
   a. Open Git Bash 
   b. go to repository 
   c. use git pull comand
+  
+## Seting up virtual machine
+1. In network setting change connection to (bridged)
+2. type ifconfig and use first ip("inet") address
+3. Connect using winscp and mobaxterm over ssh (port 22)

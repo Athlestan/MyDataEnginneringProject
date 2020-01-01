@@ -16,7 +16,11 @@ Learning big data tools
   b. go to repository 
   c. use git pull comand
   
-## Seting up virtual machine
+## Setting up an environment
+0. Use this tutorial http://davidiscoding.com/tutorial-configuring-the-clouderas-quickstart-vm
+
+## Setting up virtual machine
 1. In network setting change connection to (bridged)
 2. type ifconfig and use first ip("inet") address
 3. Connect using winscp and mobaxterm over ssh (port 22)
+

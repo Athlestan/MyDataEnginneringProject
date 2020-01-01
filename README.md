@@ -11,3 +11,7 @@ Learning big data tools
   b. go to a directiry where you want to colne repo
   c. use git clone <https>
 3. Commit first change https://help.github.com/en/github/getting-started-with-github/create-a-repo#commit-your-first-change
+4. Download and merge changes from remote repository to a local one:
+  a. Open Git Bash 
+  b. go to repository 
+  c. use git pull comand

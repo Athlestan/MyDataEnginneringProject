@@ -1,0 +1,1 @@
+# na poczatku tylko z pliku testowego potem przepięcie na API
